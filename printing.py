@@ -1,6 +1,6 @@
 print("My name is Idowu Daniel")
 print("Jesus is king")
-print("To practice git stash")
+print("sesko")
 print("Glory Glory Man United")
 print("Bruno fernandes")
 print("Youri Tielesman")
