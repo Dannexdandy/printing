@@ -1,5 +1,7 @@
 print("My name is Idowu Daniel")
 print("Jesus is king")
-print("sesko")
+print("Benjamin Sesko")
 print("Glory Glory Man United")
 print("Bruno fernandes")
+print("Youri Tielesman")
+print("Amad Diallo")
